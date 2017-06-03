@@ -1,0 +1,61 @@
+<ion-nav-view>
+    <ion-header-bar class="bar-light bgcolor">
+        <h1 class="title">个人信息</h1>
+        <div class="buttons">
+            <a class="button" ng-click="exit()">退出</a>
+        </div>
+    </ion-header-bar>
+    <ion-content class="contentBgc set-con" style="bottom: 0;">
+        <!--<img src="../../img/yanzheng.png"/>-->
+        <div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">用户名</div>
+            <input class="set-mar" ng-model="userInfo.userName" placeholder="请输入用户名" style="border: none;"/>
+            <!--<div class="fa fa-angle-right direct-r" ng-click="refreshName()"></div>-->
+        </div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">姓名</div>
+            <input class="set-mar" ng-model="userInfo.name" placeholder="请输入姓名" style="border: none;"/>
+            <!--<div class="fa fa-angle-right direct-r" ng-click="refreshName()"></div>-->
+        </div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">性别</div>
+            <!--<input class="set-mar" placeholder="请输入性别" style="border: none;"/>-->
+            <select class="set-select" ng-model="userInfo.sex">
+                <option value="1">男</option>
+                <option value="2">女</option>
+                <option value="3">保密</option>
+            </select>
+        </div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">手机号</div>
+            <input class="set-mar" ng-model="userInfo.tel" placeholder="请输入手机号" style="border: none;"/>
+        </div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">邮箱</div>
+            <input class="set-mar" ng-model="userInfo.email" placeholder="请输入邮箱" style="border: none;"/>
+        </div>
+        <div class="set-list">
+            <div class="set-pad" style="width: 8em;">身份证号码</div>
+            <input class="set-mar" ng-model="userInfo.idCard" placeholder="请输入身份证号码" style="border: none;"/>
+        </div>
+        </div>
+        <div class="card-next" ng-click="subUserInfo()">
+            <button class="card-btn" style="background-color: #4a7fd3;color: #fff;border-radius: 0.5em">保存</button>
+        </div>
+        <!--<div class="set-list">-->
+            <!--<div class="set-pad" style="width: 7em;">证件信息</div>-->
+            <!--<input class="set-mar" placeholder="请输入证件信息" style="border: none;"/>-->
+        <!--</div>-->
+        <!--<div class="bar bar-footer" style="bottom: 20px;">-->
+        <!--<div class="set-list" style="margin-top: 1em">-->
+            <!--<div class="bar bar-footer" style="width: 100%;padding: 0">-->
+                <!--<button class="button footer-button" ng-click="subUserInfo()">保存</button>-->
+                <!--<button class="button footer-button" style="top: 0;right: 0;bottom: 0;">取消</button>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--</div>-->
+    </ion-content>
+
+
+</ion-nav-view>

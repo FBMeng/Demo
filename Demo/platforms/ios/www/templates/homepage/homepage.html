@@ -1,0 +1,46 @@
+<ion-header-bar class="bar-light bgcolor bar bar-header">
+    <h1 class="title">主页</h1>
+</ion-header-bar>
+<ion-content>
+<div style="background-image: url('img/bg_login.png');height: 35%">
+        <div style="background-color: #fff;line-height: 2em;font-size: 16px;display: inline;
+    padding: 0.5em 1em;">{{userName}} 会员
+        </div>
+    <div class="headimge">头像设置</div>
+</div>
+<div style="display: flex">
+    <div class="home-enter" ng-click="openWallet()">
+        <div>我的钱包</div>
+        <div>余额<span style="color: red">{{homeData.money}}</span>元</div>
+    </div>
+    <div class="home-enter" ng-click="openCoupon()">
+        <div>优惠券</div>
+        <div>共<span style="color: red">{{homeData.coupon}}</span>张可用</div>
+    </div>
+
+</div>
+<div style="display: flex">
+    <div class="home-enter" ng-click="openMyCard()">
+        <div>我的银行卡</div>
+        <div>已绑定<span style="color: red">{{homeData.card}}</span>张</div>
+    </div>
+    <div class="home-enter">
+        <div>我的积分</div>
+        <div><span style="color: red">0</span>分</div>
+    </div>
+
+</div>
+<div style="display: flex">
+    <div class="home-enter">
+        <div>机票&nbsp;酒店</div>
+        <div><span style="color: red">预订/查询</span></div>
+    </div>
+    <div class="home-enter">
+        <div>景点门票</div>
+        <div><span style="color: red">预订/查询</span></div>
+    </div>
+
+</div>
+</ion-content>
+
+

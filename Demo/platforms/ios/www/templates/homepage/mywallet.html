@@ -1,0 +1,22 @@
+
+<ion-header-bar class="bar-light bgcolor bar bar-header">
+    <div class="buttons ub fa  fa-angle-left back_text" ng-click="backHome()">
+    </div>
+    <div class="back_text" ng-click="backHome()">返回</div>
+    <h1 class="title">我的钱包</h1>
+    <div class="buttons">
+        <a class="button" ng-click="chargeMoney()">立即充值</a>
+    </div>
+</ion-header-bar>
+<ion-content class="contentBgc">
+    <div style="height: 30%;background-image:url('img/bg_login.png');color: #fff;">
+        <div style="padding: 1em;">当前余额</div>
+        <div style="padding: 1em;">{{sumNum}}元</div>
+    </div>
+    <ion-list>
+        <ion-item ng-repeat="item in conList|orderBy:'CREATION_DATE':'desc'">
+            {{item.CREATION_DATE}}消费了{{item.FACT_OUT_MONEY}}元
+        </ion-item>
+    </ion-list>
+</ion-content>
+

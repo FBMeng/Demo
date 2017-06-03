@@ -1,0 +1,16 @@
+
+<ion-nav-view class="myTitleHeader">
+    <ion-header-bar class="bar-light bgcolor">
+        <div class="buttons ub fa  fa-angle-left back_text" onClick="javascript: history.go(-1);">
+        </div>
+        <div class="back_text" onClick="javascript: history.go(-1);">返回</div>
+        <h1 class="title">我的优惠券</h1>
+    </ion-header-bar>
+    <ion-content class="contentBgc">
+        <ion-list>
+            <ion-item ng-repeat="coupon in couponList">
+                优惠券{{coupon.COUPON_MONEY}}元
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-nav-view>

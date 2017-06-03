@@ -1,0 +1,26 @@
+<ion-nav-view class="myTitleHeader">
+<ion-header-bar class="bar-light bgcolor">
+    <div class="buttons ub fa  fa-angle-left back_text" onClick="javascript: history.go(-1);">
+    </div>
+    <div class="back_text" onClick="javascript: history.go(-1);">返回</div>
+    <h1 class="title">管理银行卡</h1>
+    <div class="buttons">
+        <a class="button" ng-click="addCard()">添加银行卡</a>
+    </div>
+</ion-header-bar>
+<ion-content class="contentBgc">
+    <ion-list>
+        <ion-item ng-repeat="cardItem in cardList">
+            <div style="display: flex;">
+            <div style="padding: 0 3em">{{cardItem.BANK_TYPE}}{{cardItem.CARD_TYPE}}</div>
+            <div>{{cardItem.CARD_NO}}</div>
+            </div>
+        </ion-item>
+    </ion-list>
+    <div class="mycard" ng-click="addCard()">
+        <div class="fa fa-plus add-button"></div>
+        <div class="set-mar">添加银行卡</div>
+        <div class="fa fa-angle-right direct-r" style="line-height: 1.5em;"></div>
+    </div>
+</ion-content>
+</ion-nav-view>

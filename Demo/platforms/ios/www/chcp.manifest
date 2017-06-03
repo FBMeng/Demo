@@ -1,0 +1,2818 @@
+[
+  {
+    "file": "cordova_plugins.js",
+    "hash": "9bf1cd47533080ea1fb7a0404a2c8df4"
+  },
+  {
+    "file": "cordova.js",
+    "hash": "60cecbbae40c7fa2507ec0373e1b3dac"
+  },
+  {
+    "file": "data/home.json",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "img/icon_approval.png",
+    "hash": "9a95d4d4e76be230e350407df54a2241"
+  },
+  {
+    "file": "img/icon_esratio.png",
+    "hash": "0bd8e9ace864771fb6ddafa9df9e6a0b"
+  },
+  {
+    "file": "img/icon_launch.png",
+    "hash": "b66ffd565419b09611123db4cff5eed0"
+  },
+  {
+    "file": "img/icon_message.png",
+    "hash": "5bb4ff2fb233daaee1821a0c6e7dc65c"
+  },
+  {
+    "file": "img/icon_statistics.png",
+    "hash": "952b06368546b881f73357b5d93185d5"
+  },
+  {
+    "file": "img/icon_timeanalysis.png",
+    "hash": "527f847fea50f4bc2c0f62be579dc0eb"
+  },
+  {
+    "file": "img/icon_timesheet.png",
+    "hash": "a5f231b8a90334c7ce0fe4e997ad2f46"
+  },
+  {
+    "file": "index.html",
+    "hash": "ec5fe9d93dfa9478d446353f4f5c2020"
+  },
+  {
+    "file": "js/app.js",
+    "hash": "4d3202e10ee15691d045ffa6745f8955"
+  },
+  {
+    "file": "js/controller.js",
+    "hash": "b7d93f3d0be29b31282dd70a466f2936"
+  },
+  {
+    "file": "js/services.js",
+    "hash": "a25fd67b2fd02ce892e51fbefe37fc1b"
+  },
+  {
+    "file": "lib/css/base.css",
+    "hash": "6cf1427a528ba39b0a55e8e031088cea"
+  },
+  {
+    "file": "lib/css/ionic.css",
+    "hash": "e676cdc99940d37fd216a76834883aac"
+  },
+  {
+    "file": "lib/css/ionic.min.css",
+    "hash": "69b6aba4f6d47c03b5be1fbd5aed153b"
+  },
+  {
+    "file": "lib/css/zabuto_calendar.min.css",
+    "hash": "11d813fe46d85d45e394e127293efb9d"
+  },
+  {
+    "file": "lib/fonts/font-awesome.min.css",
+    "hash": "7a2c2de518e45fb185c6d9d63a61eda6"
+  },
+  {
+    "file": "lib/fonts/fontawesome-webfont.ttf",
+    "hash": "c4668ed2440df82d3fd2f8be9d31d07d"
+  },
+  {
+    "file": "lib/fonts/ionicons.eot",
+    "hash": "2c2ae068be3b089e0a5b59abb1831550"
+  },
+  {
+    "file": "lib/fonts/ionicons.svg",
+    "hash": "621bd386841f74e0053cb8e67f8a0604"
+  },
+  {
+    "file": "lib/fonts/ionicons.ttf",
+    "hash": "24712f6c47821394fba7942fbb52c3b2"
+  },
+  {
+    "file": "lib/fonts/ionicons.woff",
+    "hash": "05acfdb568b3df49ad31355b19495d4a"
+  },
+  {
+    "file": "lib/js/echarts.min.js",
+    "hash": "ee4d7b24c53653dcff95bfc7844f55a0"
+  },
+  {
+    "file": "lib/js/ionic.bundle.js",
+    "hash": "0ff2d86a483237d943b5d5f12d7790ac"
+  },
+  {
+    "file": "lib/js/ionic.bundle.min.js",
+    "hash": "e0cc14dc4c94a45d368932afd38c0614"
+  },
+  {
+    "file": "lib/js/jquery.min.js",
+    "hash": "c1c70105cf8fd48872851a523fa9afe0"
+  },
+  {
+    "file": "lib/js/ng-constants.js",
+    "hash": "d3bc08a119c59cfff16d87dbf37e01f8"
+  },
+  {
+    "file": "lib/js/ng-cordova.js",
+    "hash": "218a530f616a4f181fb4123bc2972492"
+  },
+  {
+    "file": "lib/js/ng-directive.js",
+    "hash": "d5be9ce966e1719a67f877b8319313af"
+  },
+  {
+    "file": "lib/js/zabuto_calendar.min.js",
+    "hash": "eb7ce51e891690e721bba8286c6f1389"
+  },
+  {
+    "file": "modules/approval/css/main.css",
+    "hash": "5ef134b0b2800b003c8faf1803989d03"
+  },
+  {
+    "file": "modules/approval/css/main1.css",
+    "hash": "fbc588f37294ca1133febe57ac56f67b"
+  },
+  {
+    "file": "modules/approval/img/accban.png",
+    "hash": "c0d56a6f9a5b483ebe58f9611543fb56"
+  },
+  {
+    "file": "modules/approval/img/accIcon1.png",
+    "hash": "9e103ab58a5e0d7db5352f2c4de2b7bf"
+  },
+  {
+    "file": "modules/approval/img/accIcon2.png",
+    "hash": "4bd6906578085d53c46bd7c496a43e70"
+  },
+  {
+    "file": "modules/approval/img/accIcon3.png",
+    "hash": "6fff9c815e98380aa9c517d6112dadb9"
+  },
+  {
+    "file": "modules/approval/img/accIcon4.png",
+    "hash": "5f8d436e141aea6c49ecf93e8ed9664f"
+  },
+  {
+    "file": "modules/approval/img/accIcon5.png",
+    "hash": "08d4672122777b8275a83c3f719aeecf"
+  },
+  {
+    "file": "modules/approval/img/accIcon6.png",
+    "hash": "9d36404aa8eeb4dfb2da4128d1006d31"
+  },
+  {
+    "file": "modules/approval/img/accIcon7.png",
+    "hash": "8139807bc9b3412e0f2eb36ef1826c6f"
+  },
+  {
+    "file": "modules/approval/img/accIcon8.png",
+    "hash": "ade6083010439aa2215144f1ede4ac99"
+  },
+  {
+    "file": "modules/approval/img/accuser.png",
+    "hash": "196efbe4aab01282e5d9a1473d908262"
+  },
+  {
+    "file": "modules/approval/img/add.png",
+    "hash": "8fefe77c0f8a7574da011cd371a75c29"
+  },
+  {
+    "file": "modules/approval/img/address_img.png",
+    "hash": "99e78213bc7712ff663c818dd5679228"
+  },
+  {
+    "file": "modules/approval/img/agree_btn.png",
+    "hash": "e705d70825a516811c7081990412b01b"
+  },
+  {
+    "file": "modules/approval/img/agree_icon.png",
+    "hash": "16872bdac2ff4a68ed44f12ffc7b582f"
+  },
+  {
+    "file": "modules/approval/img/arrow_right.png",
+    "hash": "84850f141a8380331df06144a0d0910f"
+  },
+  {
+    "file": "modules/approval/img/back_btn.png",
+    "hash": "4597d8323e86809cc0405e41ef313508"
+  },
+  {
+    "file": "modules/approval/img/back_icon.png",
+    "hash": "1b212e087238462f05cd370b8edb95aa"
+  },
+  {
+    "file": "modules/approval/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/approval/img/gssp2.png",
+    "hash": "43687afd9d4b50b660d1b19203c370f0"
+  },
+  {
+    "file": "modules/approval/img/gssp3.png",
+    "hash": "b0a83466f18c1edb8f6b3970ca59f43a"
+  },
+  {
+    "file": "modules/approval/img/gssp5.png",
+    "hash": "710fd4ae81e3dbd9089bef1141eb9c65"
+  },
+  {
+    "file": "modules/approval/img/icon.png",
+    "hash": "e4ae6b2ccbb26f84f5d3e0698a05d65e"
+  },
+  {
+    "file": "modules/approval/img/no_select.png",
+    "hash": "1da97a90a60847494b44f77b68db483d"
+  },
+  {
+    "file": "modules/approval/img/selectLine.png",
+    "hash": "601e6b5d0b6876eee2184e7b14e9d970"
+  },
+  {
+    "file": "modules/approval/img/time_icon.png",
+    "hash": "e3ac09d5eedf7c7259b5d3498fb87ee8"
+  },
+  {
+    "file": "modules/approval/img/wait_icon.png",
+    "hash": "88097b6288bb28acc2edfb6406490b0a"
+  },
+  {
+    "file": "modules/approval/img/weixuanze.png",
+    "hash": "23b2d306461fa963fad338fb4b020f50"
+  },
+  {
+    "file": "modules/approval/img/xing.png",
+    "hash": "b062adce23922f2ade7fcccedd1f8651"
+  },
+  {
+    "file": "modules/approval/img/xing2.png",
+    "hash": "4300b936e69b8414a2397be6644362af"
+  },
+  {
+    "file": "modules/approval/img/xuanze.png",
+    "hash": "aa6a2d0840f7f2837dd5779fa39e9519"
+  },
+  {
+    "file": "modules/approval/img/yes_select.png",
+    "hash": "96b4bebf49d7beacfdc14b54eff866b7"
+  },
+  {
+    "file": "modules/approval/index.html",
+    "hash": "ec18b15f03fd653978640bce6bcc822b"
+  },
+  {
+    "file": "modules/approval/js/app.js",
+    "hash": "2265c13b3903a8f7cac8af0dd7dc6f85"
+  },
+  {
+    "file": "modules/approval/js/controller.js",
+    "hash": "03fb27b37ab2516d873c3ab7dec6e53d"
+  },
+  {
+    "file": "modules/approval/js/services.js",
+    "hash": "c5982f25b93d50350e74600653baaa3b"
+  },
+  {
+    "file": "modules/approval/templates/approve.html",
+    "hash": "c9b894a941ec4a77a6b7bd7130c8efcb"
+  },
+  {
+    "file": "modules/approval/templates/daiban_bx_detail_fujian.html",
+    "hash": "1ea63019581153e546e408a01a67a7d6"
+  },
+  {
+    "file": "modules/approval/templates/daiban_bx_detail_info.html",
+    "hash": "66efad8bc3a88f33dff5f388f78ddf77"
+  },
+  {
+    "file": "modules/approval/templates/daiban_bx_detail_operate.html",
+    "hash": "945c0b09e04dd876fd86c8a3075c7fc6"
+  },
+  {
+    "file": "modules/approval/templates/daiban_bx_detail_tabs.html",
+    "hash": "1bb8058bbabc815607ef116a698dfb6b"
+  },
+  {
+    "file": "modules/approval/templates/daiban_leave_detail.html",
+    "hash": "5c04b67496fa999c4dce2919fc4f8416"
+  },
+  {
+    "file": "modules/approval/templates/fybxdaiban.html",
+    "hash": "b3c4b37f5463e5fd1f612f42c98a1f9d"
+  },
+  {
+    "file": "modules/approval/templates/fybxguidang.html",
+    "hash": "17aa2533e1bb4cb6aa3f35fafa94a690"
+  },
+  {
+    "file": "modules/approval/templates/fybxyiban.html",
+    "hash": "0dd382defe6d0419674e5048b5f5338c"
+  },
+  {
+    "file": "modules/approval/templates/gspd.html",
+    "hash": "8c247278dabd7fdf7552b3613abd6c50"
+  },
+  {
+    "file": "modules/approval/templates/gspdDetail.html",
+    "hash": "bac6027ac7393ae066cafef970e7ddea"
+  },
+  {
+    "file": "modules/approval/templates/gspdSelectPorject.html",
+    "hash": "6aa0f58b04e6299fa4b93e5124a2a031"
+  },
+  {
+    "file": "modules/approval/templates/home.html",
+    "hash": "5757e0c659c32365d6e36ab1b5c2d4cb"
+  },
+  {
+    "file": "modules/approval/templates/kqsp.html",
+    "hash": "d34b3b4e36b6cf9e7af3aa8b64249000"
+  },
+  {
+    "file": "modules/approval/templates/kqspDetal.html",
+    "hash": "7f0dba71075c2b2574f846003bb50a62"
+  },
+  {
+    "file": "modules/approval/templates/leave_tabs.html",
+    "hash": "e7da2481cbff748227e8221e4cfe3aba"
+  },
+  {
+    "file": "modules/approval/templates/leavedaiban.html",
+    "hash": "42b0fdd5533c9281e0339a8b8d8ed5d8"
+  },
+  {
+    "file": "modules/approval/templates/leaveguidang.html",
+    "hash": "631d9fb0aba18d7d9adf0303a3bf6ec0"
+  },
+  {
+    "file": "modules/approval/templates/leaveyiban.html",
+    "hash": "d27952daf7c7474ccf7d4f366459aebc"
+  },
+  {
+    "file": "modules/approval/templates/select.html",
+    "hash": "c3a70732fd78a0ece83e95cfec121c59"
+  },
+  {
+    "file": "modules/approval/templates/tabs.html",
+    "hash": "1358f2ddecb9662dc9264586af6bfc39"
+  },
+  {
+    "file": "modules/approval/templates/yiban_detail.html",
+    "hash": "844b7c152c506a707a17a0bc0e1a259f"
+  },
+  {
+    "file": "modules/calendar/css/main.css",
+    "hash": "5084899f55bcdd7fc2fd5f38ab7d3ad5"
+  },
+  {
+    "file": "modules/calendar/img/address_icon.png",
+    "hash": "99e78213bc7712ff663c818dd5679228"
+  },
+  {
+    "file": "modules/calendar/img/del_icon.png",
+    "hash": "5353ec53fadb5d4f50f9a69d07725221"
+  },
+  {
+    "file": "modules/calendar/img/face/88_org.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/calendar/img/face/88_thumb.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/calendar/img/face/angrya_org.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/calendar/img/face/angrya_thumb.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/calendar/img/face/bba_org.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/calendar/img/face/bba_thumb.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/calendar/img/face/bs_org.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/calendar/img/face/bs_thumb.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/calendar/img/face/bs2_org.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/calendar/img/face/bs2_thumb.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/calendar/img/face/buyao_org.gif",
+    "hash": "d7bdca562fd0b53f816eedb23148e158"
+  },
+  {
+    "file": "modules/calendar/img/face/bz_org.gif",
+    "hash": "f253e7913bd86336af780d032aa22eb0"
+  },
+  {
+    "file": "modules/calendar/img/face/bz_thumb.gif",
+    "hash": "92bf7127158347196c4f9aef0d0ab301"
+  },
+  {
+    "file": "modules/calendar/img/face/cj_org.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/calendar/img/face/cj_thumb.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/calendar/img/face/clock_org.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/calendar/img/face/clock_thumb.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/calendar/img/face/come_org.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/calendar/img/face/come_thumb.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/calendar/img/face/cool_org.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/calendar/img/face/cool_thumb.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/calendar/img/face/crazya_org.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/calendar/img/face/crazya_thumb.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/calendar/img/face/cry.gif",
+    "hash": "21ed3c01c99c75162cc7d5c09e557468"
+  },
+  {
+    "file": "modules/calendar/img/face/cza_org.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/calendar/img/face/cza_thumb.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/calendar/img/face/dizzya_org.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/calendar/img/face/dizzya_thumb.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/calendar/img/face/fuyun_org.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/calendar/img/face/fuyun_thumb.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/calendar/img/face/geiliv2_org.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/calendar/img/face/geiliv2_thumb.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/calendar/img/face/good_org.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/calendar/img/face/good_thumb.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/calendar/img/face/gza_org.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/calendar/img/face/gza_thumb.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/calendar/img/face/h_org.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/calendar/img/face/h_thumb.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/calendar/img/face/haqianv2_org.gif",
+    "hash": "428e41e41489d1bc92da8fb2eca2db2c"
+  },
+  {
+    "file": "modules/calendar/img/face/haqianv2_thumb.gif",
+    "hash": "9044159f1635cce276f79f2750e44bab"
+  },
+  {
+    "file": "modules/calendar/img/face/hatea_org.gif",
+    "hash": "36e168d8ead5ae399247487232ccc3ef"
+  },
+  {
+    "file": "modules/calendar/img/face/hatea_thumb.gif",
+    "hash": "15bd343617ec5ea02eedfdfe575c656c"
+  },
+  {
+    "file": "modules/calendar/img/face/hearta_org.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/calendar/img/face/hearta_thumb.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/calendar/img/face/heia_org.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/calendar/img/face/heia_thumb.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/calendar/img/face/horse2_org.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/calendar/img/face/horse2_thumb.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/calendar/img/face/huanglianse_org.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/calendar/img/face/huanglianse_thumb.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/calendar/img/face/huangliansj_org.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/calendar/img/face/huangliansj_thumb.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/calendar/img/face/huanglianwx_org.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/calendar/img/face/huanglianwx_thumb.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/calendar/img/face/huatongv2_org.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/calendar/img/face/huatongv2_thumb.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/calendar/img/face/hufen_org.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/calendar/img/face/hufen_thumb.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/calendar/img/face/j_org.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/calendar/img/face/j_thumb.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/calendar/img/face/kl_org.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/calendar/img/face/kl_thumb.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/calendar/img/face/kunv2_org.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/calendar/img/face/kunv2_thumb.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/calendar/img/face/landeln_org.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/calendar/img/face/landeln_thumb.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/calendar/img/face/laugh.gif",
+    "hash": "aec972de4da971327e4452c5b4b5fda1"
+  },
+  {
+    "file": "modules/calendar/img/face/liwu_org.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/calendar/img/face/liwu_thumb.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/calendar/img/face/lovea_org.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/calendar/img/face/lovea_thumb.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/calendar/img/face/mb_org.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/calendar/img/face/mb_thumb.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/calendar/img/face/money_org.gif",
+    "hash": "f81a7f4f93f254d58c0e943a07d2cc0b"
+  },
+  {
+    "file": "modules/calendar/img/face/numav2_org.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/calendar/img/face/numav2_thumb.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/calendar/img/face/ok_org.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/calendar/img/face/ok_thumb.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/calendar/img/face/otm_org.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/calendar/img/face/otm_thumb.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/calendar/img/face/panda_org.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/calendar/img/face/panda_thumb.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/calendar/img/face/pig.gif",
+    "hash": "21069e4a6b8a4f6a0af40c87a168f321"
+  },
+  {
+    "file": "modules/calendar/img/face/qq_org.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/calendar/img/face/qq_thumb.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/calendar/img/face/rabbit_org.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/calendar/img/face/rabbit_thumb.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/calendar/img/face/sad_org.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/calendar/img/face/sad_thumb.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/calendar/img/face/sada_org.gif",
+    "hash": "c10ee1ae35ed17f2af22c0b5f4101fff"
+  },
+  {
+    "file": "modules/calendar/img/face/sada_thumb.gif",
+    "hash": "7621ac2727678687a5318762f580142e"
+  },
+  {
+    "file": "modules/calendar/img/face/sb_org.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/calendar/img/face/sb_thumb.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/calendar/img/face/shamea_org.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/calendar/img/face/shamea_thumb.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/calendar/img/face/shenshou_org.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/calendar/img/face/shenshou_thumb.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/calendar/img/face/sk_org.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/calendar/img/face/sk_thumb.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/calendar/img/face/sw_org.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/calendar/img/face/sw_thumb.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/calendar/img/face/sweata_org.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/calendar/img/face/sweata_thumb.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/calendar/img/face/t_org.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/calendar/img/face/t_thumb.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/calendar/img/face/tootha_org.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/calendar/img/face/tootha_thumb.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/calendar/img/face/tza_org.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/calendar/img/face/tza_thumb.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/calendar/img/face/unheart.gif",
+    "hash": "2a4c6936a09b0219d1c74f0167577b30"
+  },
+  {
+    "file": "modules/calendar/img/face/vw_org.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/calendar/img/face/vw_thumb.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/calendar/img/face/wabi_org.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/calendar/img/face/wabi_thumb.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/calendar/img/face/wg_org.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/calendar/img/face/wg_thumb.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/calendar/img/face/wq_org.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/calendar/img/face/wq_thumb.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/calendar/img/face/x_org.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/calendar/img/face/x_thumb.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/calendar/img/face/ye_org.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/calendar/img/face/ye_thumb.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/calendar/img/face/yhh_org.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/calendar/img/face/yhh_thumb.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/calendar/img/face/yw_org.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/calendar/img/face/yw_thumb.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/calendar/img/face/yx_org.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/calendar/img/face/yx_thumb.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/calendar/img/face/z2_org.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/calendar/img/face/z2_thumb.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/calendar/img/face/zhh_org.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/calendar/img/face/zhh_thumb.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/calendar/img/face/zy_org.gif",
+    "hash": "f285f17f57ed488d8d0f71015b74cbf6"
+  },
+  {
+    "file": "modules/calendar/img/face/zy_thumb.gif",
+    "hash": "8bfcb8fe88a3b666b5460743fb2cdc49"
+  },
+  {
+    "file": "modules/calendar/img/head.png",
+    "hash": "fd9b1a429f263100f35d90b855cb75c3"
+  },
+  {
+    "file": "modules/calendar/img/rec_icon.png",
+    "hash": "a7f251d9297a81f62893a5b0fe00a5fa"
+  },
+  {
+    "file": "modules/calendar/index.html",
+    "hash": "a7890a102609be6aa7735b992479604f"
+  },
+  {
+    "file": "modules/calendar/js/app.js",
+    "hash": "4bd9df27f73f27870428db42196ccd3d"
+  },
+  {
+    "file": "modules/calendar/js/controller.js",
+    "hash": "4c7e1b8d89a3ddbd39d99733bd674695"
+  },
+  {
+    "file": "modules/calendar/js/services.js",
+    "hash": "779417a6c02a4f46e4c641eeeac7c94a"
+  },
+  {
+    "file": "modules/calendar/templates/calendar.html",
+    "hash": "7c0be7dc070b95221066f986d0ff50ff"
+  },
+  {
+    "file": "modules/collection/css/main.css",
+    "hash": "3d6cb9d354074cae449fa5bb0f727b53"
+  },
+  {
+    "file": "modules/collection/img/address_icon.png",
+    "hash": "99e78213bc7712ff663c818dd5679228"
+  },
+  {
+    "file": "modules/collection/img/del_icon.png",
+    "hash": "5353ec53fadb5d4f50f9a69d07725221"
+  },
+  {
+    "file": "modules/collection/img/face/88_org.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/collection/img/face/88_thumb.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/collection/img/face/angrya_org.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/collection/img/face/angrya_thumb.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/collection/img/face/bba_org.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/collection/img/face/bba_thumb.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/collection/img/face/bs_org.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/collection/img/face/bs_thumb.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/collection/img/face/bs2_org.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/collection/img/face/bs2_thumb.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/collection/img/face/buyao_org.gif",
+    "hash": "d7bdca562fd0b53f816eedb23148e158"
+  },
+  {
+    "file": "modules/collection/img/face/bz_org.gif",
+    "hash": "f253e7913bd86336af780d032aa22eb0"
+  },
+  {
+    "file": "modules/collection/img/face/bz_thumb.gif",
+    "hash": "92bf7127158347196c4f9aef0d0ab301"
+  },
+  {
+    "file": "modules/collection/img/face/cj_org.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/collection/img/face/cj_thumb.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/collection/img/face/clock_org.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/collection/img/face/clock_thumb.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/collection/img/face/come_org.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/collection/img/face/come_thumb.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/collection/img/face/cool_org.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/collection/img/face/cool_thumb.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/collection/img/face/crazya_org.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/collection/img/face/crazya_thumb.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/collection/img/face/cry.gif",
+    "hash": "21ed3c01c99c75162cc7d5c09e557468"
+  },
+  {
+    "file": "modules/collection/img/face/cza_org.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/collection/img/face/cza_thumb.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/collection/img/face/dizzya_org.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/collection/img/face/dizzya_thumb.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/collection/img/face/fuyun_org.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/collection/img/face/fuyun_thumb.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/collection/img/face/geiliv2_org.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/collection/img/face/geiliv2_thumb.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/collection/img/face/good_org.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/collection/img/face/good_thumb.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/collection/img/face/gza_org.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/collection/img/face/gza_thumb.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/collection/img/face/h_org.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/collection/img/face/h_thumb.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/collection/img/face/haqianv2_org.gif",
+    "hash": "428e41e41489d1bc92da8fb2eca2db2c"
+  },
+  {
+    "file": "modules/collection/img/face/haqianv2_thumb.gif",
+    "hash": "9044159f1635cce276f79f2750e44bab"
+  },
+  {
+    "file": "modules/collection/img/face/hatea_org.gif",
+    "hash": "36e168d8ead5ae399247487232ccc3ef"
+  },
+  {
+    "file": "modules/collection/img/face/hatea_thumb.gif",
+    "hash": "15bd343617ec5ea02eedfdfe575c656c"
+  },
+  {
+    "file": "modules/collection/img/face/hearta_org.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/collection/img/face/hearta_thumb.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/collection/img/face/heia_org.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/collection/img/face/heia_thumb.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/collection/img/face/horse2_org.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/collection/img/face/horse2_thumb.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/collection/img/face/huanglianse_org.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/collection/img/face/huanglianse_thumb.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/collection/img/face/huangliansj_org.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/collection/img/face/huangliansj_thumb.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/collection/img/face/huanglianwx_org.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/collection/img/face/huanglianwx_thumb.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/collection/img/face/huatongv2_org.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/collection/img/face/huatongv2_thumb.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/collection/img/face/hufen_org.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/collection/img/face/hufen_thumb.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/collection/img/face/j_org.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/collection/img/face/j_thumb.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/collection/img/face/kl_org.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/collection/img/face/kl_thumb.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/collection/img/face/kunv2_org.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/collection/img/face/kunv2_thumb.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/collection/img/face/landeln_org.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/collection/img/face/landeln_thumb.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/collection/img/face/laugh.gif",
+    "hash": "aec972de4da971327e4452c5b4b5fda1"
+  },
+  {
+    "file": "modules/collection/img/face/liwu_org.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/collection/img/face/liwu_thumb.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/collection/img/face/lovea_org.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/collection/img/face/lovea_thumb.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/collection/img/face/mb_org.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/collection/img/face/mb_thumb.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/collection/img/face/money_org.gif",
+    "hash": "f81a7f4f93f254d58c0e943a07d2cc0b"
+  },
+  {
+    "file": "modules/collection/img/face/numav2_org.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/collection/img/face/numav2_thumb.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/collection/img/face/ok_org.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/collection/img/face/ok_thumb.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/collection/img/face/otm_org.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/collection/img/face/otm_thumb.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/collection/img/face/panda_org.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/collection/img/face/panda_thumb.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/collection/img/face/pig.gif",
+    "hash": "21069e4a6b8a4f6a0af40c87a168f321"
+  },
+  {
+    "file": "modules/collection/img/face/qq_org.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/collection/img/face/qq_thumb.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/collection/img/face/rabbit_org.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/collection/img/face/rabbit_thumb.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/collection/img/face/sad_org.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/collection/img/face/sad_thumb.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/collection/img/face/sada_org.gif",
+    "hash": "c10ee1ae35ed17f2af22c0b5f4101fff"
+  },
+  {
+    "file": "modules/collection/img/face/sada_thumb.gif",
+    "hash": "7621ac2727678687a5318762f580142e"
+  },
+  {
+    "file": "modules/collection/img/face/sb_org.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/collection/img/face/sb_thumb.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/collection/img/face/shamea_org.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/collection/img/face/shamea_thumb.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/collection/img/face/shenshou_org.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/collection/img/face/shenshou_thumb.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/collection/img/face/sk_org.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/collection/img/face/sk_thumb.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/collection/img/face/sw_org.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/collection/img/face/sw_thumb.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/collection/img/face/sweata_org.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/collection/img/face/sweata_thumb.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/collection/img/face/t_org.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/collection/img/face/t_thumb.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/collection/img/face/tootha_org.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/collection/img/face/tootha_thumb.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/collection/img/face/tza_org.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/collection/img/face/tza_thumb.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/collection/img/face/unheart.gif",
+    "hash": "2a4c6936a09b0219d1c74f0167577b30"
+  },
+  {
+    "file": "modules/collection/img/face/vw_org.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/collection/img/face/vw_thumb.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/collection/img/face/wabi_org.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/collection/img/face/wabi_thumb.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/collection/img/face/wg_org.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/collection/img/face/wg_thumb.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/collection/img/face/wq_org.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/collection/img/face/wq_thumb.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/collection/img/face/x_org.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/collection/img/face/x_thumb.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/collection/img/face/ye_org.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/collection/img/face/ye_thumb.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/collection/img/face/yhh_org.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/collection/img/face/yhh_thumb.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/collection/img/face/yw_org.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/collection/img/face/yw_thumb.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/collection/img/face/yx_org.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/collection/img/face/yx_thumb.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/collection/img/face/z2_org.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/collection/img/face/z2_thumb.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/collection/img/face/zhh_org.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/collection/img/face/zhh_thumb.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/collection/img/face/zy_org.gif",
+    "hash": "f285f17f57ed488d8d0f71015b74cbf6"
+  },
+  {
+    "file": "modules/collection/img/face/zy_thumb.gif",
+    "hash": "8bfcb8fe88a3b666b5460743fb2cdc49"
+  },
+  {
+    "file": "modules/collection/img/head.png",
+    "hash": "fd9b1a429f263100f35d90b855cb75c3"
+  },
+  {
+    "file": "modules/collection/img/rec_icon.png",
+    "hash": "a7f251d9297a81f62893a5b0fe00a5fa"
+  },
+  {
+    "file": "modules/collection/index.html",
+    "hash": "2b74f95ffe4ab6e14187215420c81b57"
+  },
+  {
+    "file": "modules/collection/js/app.js",
+    "hash": "219b43ccecac7f9f321205995be8ac97"
+  },
+  {
+    "file": "modules/collection/js/controller.js",
+    "hash": "353c51cb31ac8ee0ecff6fccdfc8972b"
+  },
+  {
+    "file": "modules/collection/js/services.js",
+    "hash": "c7ce29c68b87b330220009deca034028"
+  },
+  {
+    "file": "modules/collection/templates/collection.html",
+    "hash": "5b556e3ecfaedb873a1f5d2f88f8ef82"
+  },
+  {
+    "file": "modules/esratio/css/main.css",
+    "hash": "a0960b37858aaa4f0f5ee37f18dc0cb6"
+  },
+  {
+    "file": "modules/esratio/data/depList.json",
+    "hash": "3f19b794dc7dda4f7eb5231900b5c560"
+  },
+  {
+    "file": "modules/esratio/img/arrow_right.png",
+    "hash": "84850f141a8380331df06144a0d0910f"
+  },
+  {
+    "file": "modules/esratio/img/delete.png",
+    "hash": "55d24dafba218635ceed70a3b4ffbcd3"
+  },
+  {
+    "file": "modules/esratio/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/esratio/img/ph_icon.png",
+    "hash": "a1fc2021fc883371fed9b82cd8fca9ee"
+  },
+  {
+    "file": "modules/esratio/img/search.png",
+    "hash": "1ad30af36025dbfcebb48362c1a822f2"
+  },
+  {
+    "file": "modules/esratio/img/search1.png",
+    "hash": "9f4735573bee966b4744a1e5528ee9ff"
+  },
+  {
+    "file": "modules/esratio/index.html",
+    "hash": "9d6f7fc96aa713790a440fd28add77c7"
+  },
+  {
+    "file": "modules/esratio/js/app.js",
+    "hash": "5938ec4dc66f34105d77627fc6eab0f7"
+  },
+  {
+    "file": "modules/esratio/js/controller.js",
+    "hash": "1f3ec9b81926505a9149da03dd2315d0"
+  },
+  {
+    "file": "modules/esratio/js/services.js",
+    "hash": "9310b452338e14ee1bfe4e9c798992f5"
+  },
+  {
+    "file": "modules/esratio/templates/costList.html",
+    "hash": "de0fd24df3cac2271bfd5aa661cf7ae8"
+  },
+  {
+    "file": "modules/esratio/templates/depCost.html",
+    "hash": "c4ccb7829edc7d5efc31f734bd5936dc"
+  },
+  {
+    "file": "modules/esratio/templates/depList.html",
+    "hash": "45ffe63618ab19de36692ccca17f2f0e"
+  },
+  {
+    "file": "modules/esratio/templates/depPersonnel.html",
+    "hash": "160f5da349e2ad7d5026c71c24a90b12"
+  },
+  {
+    "file": "modules/esratio/templates/personnelWrList.html",
+    "hash": "1f199d44754c369d66e6767855121458"
+  },
+  {
+    "file": "modules/esratio/templates/prjDetail.html",
+    "hash": "50951e4ecd3017cbd030f652905c867e"
+  },
+  {
+    "file": "modules/esratio/templates/prjPersonnel.html",
+    "hash": "98a7c8813e14e43f509611fa0df8d914"
+  },
+  {
+    "file": "modules/esratio/templates/prjWrDetail.html",
+    "hash": "c03c35ba9592c7dca4589f72a13575d6"
+  },
+  {
+    "file": "modules/esratiodep/css/main.css",
+    "hash": "1fecfb8d35895b6e92d8ac995e584f6b"
+  },
+  {
+    "file": "modules/esratiodep/data/depList.json",
+    "hash": "3f19b794dc7dda4f7eb5231900b5c560"
+  },
+  {
+    "file": "modules/esratiodep/img/arrow_right.png",
+    "hash": "84850f141a8380331df06144a0d0910f"
+  },
+  {
+    "file": "modules/esratiodep/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/esratiodep/img/ph_icon.png",
+    "hash": "a1fc2021fc883371fed9b82cd8fca9ee"
+  },
+  {
+    "file": "modules/esratiodep/index.html",
+    "hash": "691985673376c99b4fc7dd61c2a4d099"
+  },
+  {
+    "file": "modules/esratiodep/js/app.js",
+    "hash": "5aab22499416190f8b881b962b3302ad"
+  },
+  {
+    "file": "modules/esratiodep/js/controller.js",
+    "hash": "fb640773b1b4c3795f4a1264213d478a"
+  },
+  {
+    "file": "modules/esratiodep/js/services.js",
+    "hash": "3ae2b680375feb24d78407a085db9ed5"
+  },
+  {
+    "file": "modules/esratiodep/templates/costList.html",
+    "hash": "877440eb6557131ab390601f2d8b803c"
+  },
+  {
+    "file": "modules/esratiodep/templates/depCost.html",
+    "hash": "8b2abd7ca122e4e521941637d541e3f6"
+  },
+  {
+    "file": "modules/esratiodep/templates/depList.html",
+    "hash": "2807d4e86bfee6bb7369c2291bf9b022"
+  },
+  {
+    "file": "modules/esratiodep/templates/depPersonnel.html",
+    "hash": "09efd81fb1853bd2afe90849a29f4802"
+  },
+  {
+    "file": "modules/esratiodep/templates/prjDetail.html",
+    "hash": "fd2e4f0a67ed72ded37d988dc6b35200"
+  },
+  {
+    "file": "modules/esratiodep/templates/prjPersonnel.html",
+    "hash": "c7d0be1ea3228f87fe961bba93fe18b4"
+  },
+  {
+    "file": "modules/launch/css/main.css",
+    "hash": "a51bcc53450ae1b35d9b8bfc42f321d6"
+  },
+  {
+    "file": "modules/launch/css/main1.css",
+    "hash": "5ab0d175f982aa06a650ab74bf6d7f14"
+  },
+  {
+    "file": "modules/launch/img/accIcon1.png",
+    "hash": "ffd6c39cfa2f5ed7a02d4a42de0faf83"
+  },
+  {
+    "file": "modules/launch/img/accIcon2.png",
+    "hash": "83f9fbf9c889b922c41da08d444ec382"
+  },
+  {
+    "file": "modules/launch/img/accIcon3.png",
+    "hash": "10be490e4a529dc5a297253ff92dfd31"
+  },
+  {
+    "file": "modules/launch/img/accIcon4.png",
+    "hash": "347ac050a1c5917fbadd0e5315cc3de7"
+  },
+  {
+    "file": "modules/launch/img/accIcon5.png",
+    "hash": "a51276cb4442f9fc1f5830bfd1c0937d"
+  },
+  {
+    "file": "modules/launch/img/accIcon6.png",
+    "hash": "9d36404aa8eeb4dfb2da4128d1006d31"
+  },
+  {
+    "file": "modules/launch/img/accIcon7.png",
+    "hash": "8139807bc9b3412e0f2eb36ef1826c6f"
+  },
+  {
+    "file": "modules/launch/img/accIcon8.png",
+    "hash": "ade6083010439aa2215144f1ede4ac99"
+  },
+  {
+    "file": "modules/launch/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/launch/img/icon.png",
+    "hash": "e4ae6b2ccbb26f84f5d3e0698a05d65e"
+  },
+  {
+    "file": "modules/launch/index.html",
+    "hash": "4af79986171aa1a7f522d60d82384190"
+  },
+  {
+    "file": "modules/launch/js/app.js",
+    "hash": "26529ce956faa98dc93b1d11fad554f9"
+  },
+  {
+    "file": "modules/launch/js/controller.js",
+    "hash": "c64d7999e2a6842eea18183117e08859"
+  },
+  {
+    "file": "modules/launch/js/services.js",
+    "hash": "7d6923a2bb8535941d0fd7116da46aff"
+  },
+  {
+    "file": "modules/launch/templates/create_md.html",
+    "hash": "01682f0caadef1ede1eca9bb05e93d32"
+  },
+  {
+    "file": "modules/launch/templates/home.html",
+    "hash": "791444c7dc74cbd7cddf8f3c9410b052"
+  },
+  {
+    "file": "modules/launch/templates/leave_detail.html",
+    "hash": "a636813503687e0c2f775c609c49533e"
+  },
+  {
+    "file": "modules/launch/templates/leaveCreate.html",
+    "hash": "83851cc0e4da6a26ee08b62f65554574"
+  },
+  {
+    "file": "modules/launch/templates/leaveHistory.html",
+    "hash": "10c70482becadd39fa5ec3a9fec250fd"
+  },
+  {
+    "file": "modules/message/css/main.css",
+    "hash": "2b8dd927a220346b275e07d0d4813d81"
+  },
+  {
+    "file": "modules/message/data/emotion.json",
+    "hash": "eb636dedd0846349df052de85619cd46"
+  },
+  {
+    "file": "modules/message/img/add_at.png",
+    "hash": "bd1e92fd9615f7601dcc07cd0d505f7b"
+  },
+  {
+    "file": "modules/message/img/add_face.png",
+    "hash": "2789128474fa9a4a83ce4ed8e28a5c04"
+  },
+  {
+    "file": "modules/message/img/add_img.png",
+    "hash": "e21a09aa7c4b8d57e82b78cf5d26b09e"
+  },
+  {
+    "file": "modules/message/img/add_j.png",
+    "hash": "f854ec396e41d8a67d4bdb392543bf16"
+  },
+  {
+    "file": "modules/message/img/addPhoto.png",
+    "hash": "7c5345031f72d0b2490c468a2c07ff35"
+  },
+  {
+    "file": "modules/message/img/address_icon.png",
+    "hash": "99e78213bc7712ff663c818dd5679228"
+  },
+  {
+    "file": "modules/message/img/arrow_right.png",
+    "hash": "84850f141a8380331df06144a0d0910f"
+  },
+  {
+    "file": "modules/message/img/collection_active.png",
+    "hash": "9c5373eb434afb9a847638be4e8b018f"
+  },
+  {
+    "file": "modules/message/img/collection.png",
+    "hash": "a3189389655fd39411f7be1d46abdb66"
+  },
+  {
+    "file": "modules/message/img/comments_active.png",
+    "hash": "990fbf0a19a99cbd5495a2a1f1abb575"
+  },
+  {
+    "file": "modules/message/img/comments.png",
+    "hash": "d50357e5e09f9058e23458ae2a9eca12"
+  },
+  {
+    "file": "modules/message/img/del_icon.png",
+    "hash": "5353ec53fadb5d4f50f9a69d07725221"
+  },
+  {
+    "file": "modules/message/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/message/img/face/88_org.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/message/img/face/88_thumb.gif",
+    "hash": "4fb6439d891b34c4936ae34a79725b59"
+  },
+  {
+    "file": "modules/message/img/face/angrya_org.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/message/img/face/angrya_thumb.gif",
+    "hash": "7e64a36433e1f756dafc74093e71c678"
+  },
+  {
+    "file": "modules/message/img/face/bba_org.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/message/img/face/bba_thumb.gif",
+    "hash": "55ff58341b23eb412186f8e89963f3ed"
+  },
+  {
+    "file": "modules/message/img/face/bs_org.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/message/img/face/bs_thumb.gif",
+    "hash": "55565f0156566feef1e329177f6d83f1"
+  },
+  {
+    "file": "modules/message/img/face/bs2_org.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/message/img/face/bs2_thumb.gif",
+    "hash": "611117291370fea2ceac62c29e3895bd"
+  },
+  {
+    "file": "modules/message/img/face/buyao_org.gif",
+    "hash": "d7bdca562fd0b53f816eedb23148e158"
+  },
+  {
+    "file": "modules/message/img/face/bz_org.gif",
+    "hash": "f253e7913bd86336af780d032aa22eb0"
+  },
+  {
+    "file": "modules/message/img/face/bz_thumb.gif",
+    "hash": "92bf7127158347196c4f9aef0d0ab301"
+  },
+  {
+    "file": "modules/message/img/face/cj_org.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/message/img/face/cj_thumb.gif",
+    "hash": "9946d6232e406ba2c10b60221c5b698b"
+  },
+  {
+    "file": "modules/message/img/face/clock_org.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/message/img/face/clock_thumb.gif",
+    "hash": "a1c8f21f98fc6eff21cb3e4d08baee2b"
+  },
+  {
+    "file": "modules/message/img/face/come_org.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/message/img/face/come_thumb.gif",
+    "hash": "e37c81739515617cf5bc51232ad873b7"
+  },
+  {
+    "file": "modules/message/img/face/cool_org.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/message/img/face/cool_thumb.gif",
+    "hash": "645be9a08ae4d8aac61e6b5fb47215e5"
+  },
+  {
+    "file": "modules/message/img/face/crazya_org.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/message/img/face/crazya_thumb.gif",
+    "hash": "f24d53dee3bd1050b26d6d7cd5bca68d"
+  },
+  {
+    "file": "modules/message/img/face/cry.gif",
+    "hash": "21ed3c01c99c75162cc7d5c09e557468"
+  },
+  {
+    "file": "modules/message/img/face/cza_org.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/message/img/face/cza_thumb.gif",
+    "hash": "ed40b41d05a3020271be545a607d6d78"
+  },
+  {
+    "file": "modules/message/img/face/dizzya_org.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/message/img/face/dizzya_thumb.gif",
+    "hash": "c94db1a006caf85ccb8a194335ce5621"
+  },
+  {
+    "file": "modules/message/img/face/fuyun_org.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/message/img/face/fuyun_thumb.gif",
+    "hash": "c0ed0920ba0d752ad77aca762050b12d"
+  },
+  {
+    "file": "modules/message/img/face/geiliv2_org.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/message/img/face/geiliv2_thumb.gif",
+    "hash": "907b3e81d16afb9df5ef023ede0eddf1"
+  },
+  {
+    "file": "modules/message/img/face/good_org.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/message/img/face/good_thumb.gif",
+    "hash": "aff05197849e8c8f55b2d5fe56bb56f7"
+  },
+  {
+    "file": "modules/message/img/face/gza_org.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/message/img/face/gza_thumb.gif",
+    "hash": "edfe69e1b1f20cfa8110d9e9d2536c68"
+  },
+  {
+    "file": "modules/message/img/face/h_org.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/message/img/face/h_thumb.gif",
+    "hash": "599c45d8a2832cc01617fb42091993df"
+  },
+  {
+    "file": "modules/message/img/face/haqianv2_org.gif",
+    "hash": "428e41e41489d1bc92da8fb2eca2db2c"
+  },
+  {
+    "file": "modules/message/img/face/haqianv2_thumb.gif",
+    "hash": "9044159f1635cce276f79f2750e44bab"
+  },
+  {
+    "file": "modules/message/img/face/hatea_org.gif",
+    "hash": "36e168d8ead5ae399247487232ccc3ef"
+  },
+  {
+    "file": "modules/message/img/face/hatea_thumb.gif",
+    "hash": "15bd343617ec5ea02eedfdfe575c656c"
+  },
+  {
+    "file": "modules/message/img/face/hearta_org.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/message/img/face/hearta_thumb.gif",
+    "hash": "8ede6bd1d173ddeb6f3f4b241c8f3513"
+  },
+  {
+    "file": "modules/message/img/face/heia_org.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/message/img/face/heia_thumb.gif",
+    "hash": "8621f66098b5c352706832525ca98430"
+  },
+  {
+    "file": "modules/message/img/face/horse2_org.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/message/img/face/horse2_thumb.gif",
+    "hash": "71712fa565d89315b6ef2a45b3d581b5"
+  },
+  {
+    "file": "modules/message/img/face/huanglianse_org.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/message/img/face/huanglianse_thumb.gif",
+    "hash": "4c9e106e702751cb61861778269e2b26"
+  },
+  {
+    "file": "modules/message/img/face/huangliansj_org.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/message/img/face/huangliansj_thumb.gif",
+    "hash": "2f9e45312f49e02f32ce853db930295f"
+  },
+  {
+    "file": "modules/message/img/face/huanglianwx_org.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/message/img/face/huanglianwx_thumb.gif",
+    "hash": "a06a2e3ed6da3796fbb731367d039a0a"
+  },
+  {
+    "file": "modules/message/img/face/huatongv2_org.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/message/img/face/huatongv2_thumb.gif",
+    "hash": "877ff95213ae5c45721761c540810053"
+  },
+  {
+    "file": "modules/message/img/face/hufen_org.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/message/img/face/hufen_thumb.gif",
+    "hash": "b72ecabbadc13888d4775ec53c9150f8"
+  },
+  {
+    "file": "modules/message/img/face/j_org.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/message/img/face/j_thumb.gif",
+    "hash": "4bde9630ca80c61063813274729af4ba"
+  },
+  {
+    "file": "modules/message/img/face/kl_org.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/message/img/face/kl_thumb.gif",
+    "hash": "4d2933c0445dc04bdaaad41f2b557137"
+  },
+  {
+    "file": "modules/message/img/face/kunv2_org.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/message/img/face/kunv2_thumb.gif",
+    "hash": "8d9e9cc9b52ca46e854480fa4900158e"
+  },
+  {
+    "file": "modules/message/img/face/landeln_org.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/message/img/face/landeln_thumb.gif",
+    "hash": "1e345b472299bbc72d854fea14377b19"
+  },
+  {
+    "file": "modules/message/img/face/laugh.gif",
+    "hash": "aec972de4da971327e4452c5b4b5fda1"
+  },
+  {
+    "file": "modules/message/img/face/liwu_org.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/message/img/face/liwu_thumb.gif",
+    "hash": "ab1c7c7a43aa6f43963c7b0afc9ec787"
+  },
+  {
+    "file": "modules/message/img/face/lovea_org.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/message/img/face/lovea_thumb.gif",
+    "hash": "199be3fbe9ed7e5191c8635e05bcc0e9"
+  },
+  {
+    "file": "modules/message/img/face/mb_org.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/message/img/face/mb_thumb.gif",
+    "hash": "3d4ee858ebba0e46a7850e13185b7c9b"
+  },
+  {
+    "file": "modules/message/img/face/money_org.gif",
+    "hash": "f81a7f4f93f254d58c0e943a07d2cc0b"
+  },
+  {
+    "file": "modules/message/img/face/numav2_org.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/message/img/face/numav2_thumb.gif",
+    "hash": "d17783318c1587204b6155c2fa9986fe"
+  },
+  {
+    "file": "modules/message/img/face/ok_org.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/message/img/face/ok_thumb.gif",
+    "hash": "ff4d93b3615d5d975f0b6786670b702f"
+  },
+  {
+    "file": "modules/message/img/face/otm_org.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/message/img/face/otm_thumb.gif",
+    "hash": "02709c83458b72b0c73585297cc291f3"
+  },
+  {
+    "file": "modules/message/img/face/panda_org.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/message/img/face/panda_thumb.gif",
+    "hash": "96664d71d30c946747bcc651d085ed7a"
+  },
+  {
+    "file": "modules/message/img/face/pig.gif",
+    "hash": "21069e4a6b8a4f6a0af40c87a168f321"
+  },
+  {
+    "file": "modules/message/img/face/qq_org.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/message/img/face/qq_thumb.gif",
+    "hash": "c30514bf7d87214840be9409e0543aa9"
+  },
+  {
+    "file": "modules/message/img/face/rabbit_org.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/message/img/face/rabbit_thumb.gif",
+    "hash": "c6c1e6c64c16d3747e251200e014f219"
+  },
+  {
+    "file": "modules/message/img/face/sad_org.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/message/img/face/sad_thumb.gif",
+    "hash": "89d291439d6eae4b2db6746e589f6134"
+  },
+  {
+    "file": "modules/message/img/face/sada_org.gif",
+    "hash": "c10ee1ae35ed17f2af22c0b5f4101fff"
+  },
+  {
+    "file": "modules/message/img/face/sada_thumb.gif",
+    "hash": "7621ac2727678687a5318762f580142e"
+  },
+  {
+    "file": "modules/message/img/face/sb_org.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/message/img/face/sb_thumb.gif",
+    "hash": "485a20018f6fd278510c2953697ba65c"
+  },
+  {
+    "file": "modules/message/img/face/shamea_org.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/message/img/face/shamea_thumb.gif",
+    "hash": "3880bad4694b3ef38e2e58be68b875ef"
+  },
+  {
+    "file": "modules/message/img/face/shenshou_org.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/message/img/face/shenshou_thumb.gif",
+    "hash": "1cb4f698dd69602dd6f6eff121663a17"
+  },
+  {
+    "file": "modules/message/img/face/sk_org.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/message/img/face/sk_thumb.gif",
+    "hash": "0b7ff8f1bbb91be880ef190767774c78"
+  },
+  {
+    "file": "modules/message/img/face/sw_org.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/message/img/face/sw_thumb.gif",
+    "hash": "cc8ff0383ce624c0721682aaa500b672"
+  },
+  {
+    "file": "modules/message/img/face/sweata_org.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/message/img/face/sweata_thumb.gif",
+    "hash": "dcc636d88b53e73852db566a4d9d2f20"
+  },
+  {
+    "file": "modules/message/img/face/t_org.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/message/img/face/t_thumb.gif",
+    "hash": "84b3bd065735379c7ebf902bd356eb24"
+  },
+  {
+    "file": "modules/message/img/face/tootha_org.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/message/img/face/tootha_thumb.gif",
+    "hash": "913e2f3dd1962d2a80b4ae66ddddceb3"
+  },
+  {
+    "file": "modules/message/img/face/tza_org.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/message/img/face/tza_thumb.gif",
+    "hash": "bf97be0b15ace15dedf22f266a5c429c"
+  },
+  {
+    "file": "modules/message/img/face/unheart.gif",
+    "hash": "2a4c6936a09b0219d1c74f0167577b30"
+  },
+  {
+    "file": "modules/message/img/face/vw_org.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/message/img/face/vw_thumb.gif",
+    "hash": "a27ed9871926a8e37c522f6c1542df9a"
+  },
+  {
+    "file": "modules/message/img/face/wabi_org.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/message/img/face/wabi_thumb.gif",
+    "hash": "8ae6b6ec8d2941a6adaee9555839e81c"
+  },
+  {
+    "file": "modules/message/img/face/wg_org.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/message/img/face/wg_thumb.gif",
+    "hash": "959bacfef9ac0d3bb275504623c62375"
+  },
+  {
+    "file": "modules/message/img/face/wq_org.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/message/img/face/wq_thumb.gif",
+    "hash": "7873504cf41c6bf81dc385e7a63e06c2"
+  },
+  {
+    "file": "modules/message/img/face/x_org.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/message/img/face/x_thumb.gif",
+    "hash": "435dbb7f69e76dbe51c64d0208478bd5"
+  },
+  {
+    "file": "modules/message/img/face/ye_org.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/message/img/face/ye_thumb.gif",
+    "hash": "bc06dab3c63c4e2300c5cd4524819370"
+  },
+  {
+    "file": "modules/message/img/face/yhh_org.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/message/img/face/yhh_thumb.gif",
+    "hash": "f81ed31a2829c0609354f25e1da62006"
+  },
+  {
+    "file": "modules/message/img/face/yw_org.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/message/img/face/yw_thumb.gif",
+    "hash": "4e10558193648444470bb9a1dd7007da"
+  },
+  {
+    "file": "modules/message/img/face/yx_org.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/message/img/face/yx_thumb.gif",
+    "hash": "b0f285b595f10a1277774bf6844da76b"
+  },
+  {
+    "file": "modules/message/img/face/z2_org.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/message/img/face/z2_thumb.gif",
+    "hash": "8c6f0b4cdd0fa9d68205bab3d8df29e4"
+  },
+  {
+    "file": "modules/message/img/face/zhh_org.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/message/img/face/zhh_thumb.gif",
+    "hash": "fa7da45a4cf11818476a64b11972beba"
+  },
+  {
+    "file": "modules/message/img/face/zy_org.gif",
+    "hash": "f285f17f57ed488d8d0f71015b74cbf6"
+  },
+  {
+    "file": "modules/message/img/face/zy_thumb.gif",
+    "hash": "8bfcb8fe88a3b666b5460743fb2cdc49"
+  },
+  {
+    "file": "modules/message/img/figure_icon.png",
+    "hash": "362e2692785402688f4c5a8bba5de21f"
+  },
+  {
+    "file": "modules/message/img/figureAll_icon.png",
+    "hash": "258d0a4d5266a51c13c82a9639f01af6"
+  },
+  {
+    "file": "modules/message/img/head.png",
+    "hash": "fd9b1a429f263100f35d90b855cb75c3"
+  },
+  {
+    "file": "modules/message/img/praise_active.png",
+    "hash": "633eaf2b01d3c8589164944169d73242"
+  },
+  {
+    "file": "modules/message/img/praise.png",
+    "hash": "b33225fcf282e86528a2aa0dbc7fc516"
+  },
+  {
+    "file": "modules/message/img/rec_icon.png",
+    "hash": "a7f251d9297a81f62893a5b0fe00a5fa"
+  },
+  {
+    "file": "modules/message/img/remove_address.png",
+    "hash": "15248f2591d91652e07d560f2e855df5"
+  },
+  {
+    "file": "modules/message/img/task_active.png",
+    "hash": "71c11f4ef73f24e67593aab678583d5b"
+  },
+  {
+    "file": "modules/message/img/task.png",
+    "hash": "1527b54d7f9ce101d808d0cae860e3bc"
+  },
+  {
+    "file": "modules/message/index.html",
+    "hash": "fe0e3c6f7aad0139537c43ee29ff329f"
+  },
+  {
+    "file": "modules/message/js/app.js",
+    "hash": "e1e72ef6e7df05a78b4739c482391e72"
+  },
+  {
+    "file": "modules/message/js/controller.js",
+    "hash": "fc7d04ba5ab4f4c15bab5d65bc7ac490"
+  },
+  {
+    "file": "modules/message/js/services.js",
+    "hash": "73296e6947ff076bc68d40d3ea3eb899"
+  },
+  {
+    "file": "modules/message/templates/addMessage.html",
+    "hash": "f69d58f2e0724cc1255fe8f68efe0085"
+  },
+  {
+    "file": "modules/message/templates/allMessage.html",
+    "hash": "9a5c0546fef902412f8d5251c2da2850"
+  },
+  {
+    "file": "modules/message/templates/chooseGroup.html",
+    "hash": "61b54dd92069ddf9a190d48843b6b037"
+  },
+  {
+    "file": "modules/message/templates/chooseRec.html",
+    "hash": "bb342d297e989b9289033dea036358e3"
+  },
+  {
+    "file": "modules/message/templates/imgShow.html",
+    "hash": "9ab15b63d041b280cb2642bd692db97f"
+  },
+  {
+    "file": "modules/message/templates/meMessage.html",
+    "hash": "48c6cc08fb9aac0a35d273319f02bcea"
+  },
+  {
+    "file": "modules/message/templates/messageAddress.html",
+    "hash": "436c864131773429595fc77a08919bc7"
+  },
+  {
+    "file": "modules/message/templates/messageComment.html",
+    "hash": "26dce33685b259b08cea70d3bf606e1e"
+  },
+  {
+    "file": "modules/message/templates/messageDetail.html",
+    "hash": "43c2d1735890bc23846acb3e4b734e43"
+  },
+  {
+    "file": "modules/message/templates/tabs.html",
+    "hash": "4559f8d85e64bc5e468ff25901430276"
+  },
+  {
+    "file": "modules/statistics/css/main.css",
+    "hash": "0f8e03c3fa852e53f30b86ebe68fd5a6"
+  },
+  {
+    "file": "modules/statistics/img/address_icon.png",
+    "hash": "99e78213bc7712ff663c818dd5679228"
+  },
+  {
+    "file": "modules/statistics/img/delete.png",
+    "hash": "55d24dafba218635ceed70a3b4ffbcd3"
+  },
+  {
+    "file": "modules/statistics/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/statistics/img/search.png",
+    "hash": "1ad30af36025dbfcebb48362c1a822f2"
+  },
+  {
+    "file": "modules/statistics/img/search1.png",
+    "hash": "9f4735573bee966b4744a1e5528ee9ff"
+  },
+  {
+    "file": "modules/statistics/index.html",
+    "hash": "e6a1083101add125663c92194842f2a0"
+  },
+  {
+    "file": "modules/statistics/js/app.js",
+    "hash": "1a96f9c2996197b9a524402015d24dd7"
+  },
+  {
+    "file": "modules/statistics/js/controller.js",
+    "hash": "6e559c7e05361e244a3ba9e4c16f5d9f"
+  },
+  {
+    "file": "modules/statistics/js/services.js",
+    "hash": "015343b65752d2ce03e61702f0f4b19a"
+  },
+  {
+    "file": "modules/statistics/templates/aessDetal.html",
+    "hash": "3df71fb08b57bb9efe497cb85f986690"
+  },
+  {
+    "file": "modules/statistics/templates/aessList.html",
+    "hash": "8732472aacedb9ad8eba27415ba2f51c"
+  },
+  {
+    "file": "modules/statistics/templates/detalList.html",
+    "hash": "798f3ec10a4b8cfd2a2024089b872a62"
+  },
+  {
+    "file": "modules/statistics/templates/totalList.html",
+    "hash": "55deb0aa5b8c68bc363c1ec7dfcb36bd"
+  },
+  {
+    "file": "modules/timeanalysis/css/main.css",
+    "hash": "d06175721a9c301cebddae624fce6708"
+  },
+  {
+    "file": "modules/timeanalysis/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/timeanalysis/index.html",
+    "hash": "c2a8ca6474a9f23806c5da3d8f3eb45f"
+  },
+  {
+    "file": "modules/timeanalysis/js/app.js",
+    "hash": "5ad54d7ee70554c8e968e541c1cfd2ad"
+  },
+  {
+    "file": "modules/timeanalysis/js/controller.js",
+    "hash": "f59b27cf7854d6ed9e25c95b73f4aaf9"
+  },
+  {
+    "file": "modules/timeanalysis/js/services.js",
+    "hash": "6e0109a623a3812b4b055e496c6ce3ae"
+  },
+  {
+    "file": "modules/timeanalysis/templates/alysisList.html",
+    "hash": "2fb6fb00512b8c9b58d8b9d86922682d"
+  },
+  {
+    "file": "modules/timeanalysis/templates/companyList.html",
+    "hash": "5f7b10c6ecfed5b1ee4cb01a169c82d0"
+  },
+  {
+    "file": "modules/timeanalysis/templates/depProject.html",
+    "hash": "dd3ebdbcd988ac076c121dee1355f6f7"
+  },
+  {
+    "file": "modules/timeanalysis/templates/projectDetal.html",
+    "hash": "f372a5190fb127a10d558db50f454ebe"
+  },
+  {
+    "file": "modules/timeanalysis/templates/projectList.html",
+    "hash": "e3b2f865175afcb9fcf85015db18fa7c"
+  },
+  {
+    "file": "modules/timesheet/css/main.css",
+    "hash": "201da89b65a9d822dc8a993ad9f97db1"
+  },
+  {
+    "file": "modules/timesheet/img/down.png",
+    "hash": "513d71d388869e2b3c802da53bfbe668"
+  },
+  {
+    "file": "modules/timesheet/img/project.png",
+    "hash": "610ae16572d9917a9ebcec9ee15847c7"
+  },
+  {
+    "file": "modules/timesheet/img/time.png",
+    "hash": "9a44b486f91f6031ff3595c31fc83525"
+  },
+  {
+    "file": "modules/timesheet/img/weixuanze.svg",
+    "hash": "4a30e579975ac67a6e4dd852786a79c2"
+  },
+  {
+    "file": "modules/timesheet/img/yixuanze.svg",
+    "hash": "90d4cd2cb2b168f697414db5922c2965"
+  },
+  {
+    "file": "modules/timesheet/index.html",
+    "hash": "b709258a499442433dcf69982bb5b4f9"
+  },
+  {
+    "file": "modules/timesheet/js/app.js",
+    "hash": "eaf1b77cb688bdada23d641e8e0d4ffa"
+  },
+  {
+    "file": "modules/timesheet/js/controller.js",
+    "hash": "f4777e45a71f199280f8f8a9a5bcf0d2"
+  },
+  {
+    "file": "modules/timesheet/js/services.js",
+    "hash": "9a7f2817351385c3067467fb0d83f263"
+  },
+  {
+    "file": "modules/timesheet/templates/fast.html",
+    "hash": "ef56b7ff8f23817a876a8f74e80195a0"
+  },
+  {
+    "file": "modules/timesheet/templates/projectTimesheet.html",
+    "hash": "722970adb422c820b4de784fbcd17366"
+  },
+  {
+    "file": "modules/timesheet/templates/recordTimesheet.html",
+    "hash": "f9a67cf8ac7a0367acd068bb306d9bbe"
+  },
+  {
+    "file": "modules/timesheet/templates/reset.html",
+    "hash": "749fb43dbe8ed42ed179a9bcc041b024"
+  },
+  {
+    "file": "modules/timesheet/templates/search.html",
+    "hash": "b21a86e36db004bce2210858289c359b"
+  },
+  {
+    "file": "modules/timesheet/templates/selfTimesheet.html",
+    "hash": "275b2c594eb5f39ee42b3713ac26aa65"
+  },
+  {
+    "file": "modules/timesheet/templates/tabs.html",
+    "hash": "9da581002b6dc918d2aca311deeb7c9e"
+  },
+  {
+    "file": "plugins/cn.jpush.phonegap.JPushPlugin/www/JPushPlugin.js",
+    "hash": "8d359b823b2b3d1dd22096b7c6c96951"
+  },
+  {
+    "file": "plugins/com.ionic.keyboard/www/keyboard.js",
+    "hash": "70a124f73d942c7fe3643aa6fe65ab0b"
+  },
+  {
+    "file": "plugins/com.spout.phonegap.plugins.baidulocation/www/baidulocation.js",
+    "hash": "cae49d58e3f6724d854e065cf1cf45fe"
+  },
+  {
+    "file": "plugins/com.synconset.imagepicker/www/imagepicker.js",
+    "hash": "05ce7c83cad0a080f3a0b9ef1ebe7a49"
+  },
+  {
+    "file": "plugins/com.tongban.xzBxPassword/www/xzBxPassword.js",
+    "hash": "c1661d2961f556fc88b3919786986c0c"
+  },
+  {
+    "file": "plugins/com.tongban.xzImage/www/xzImage.js",
+    "hash": "d08778cbb8686682601ffc01cf1a5c7d"
+  },
+  {
+    "file": "plugins/com.tongban.xzLocation/www/xzLocation.js",
+    "hash": "f942781724a9761f5b5062be3282f00f"
+  },
+  {
+    "file": "plugins/com.tongban.xzUser/www/xzUser.js",
+    "hash": "f4af61fef55cea0841a53987430ba48c"
+  },
+  {
+    "file": "plugins/com.tongban.xzWebViewURL/www/xzWebViewURL.js",
+    "hash": "b76e960d3983a82c328c4c91ab3afa2b"
+  },
+  {
+    "file": "plugins/com.tongban.xzWindows/www/xzWindows.js",
+    "hash": "e5c3f667e6ea1f4cdaaa65b3490e8e6f"
+  },
+  {
+    "file": "plugins/cordova-plugin-camera/www/Camera.js",
+    "hash": "aa83706be0439cbfaee5d4bf5b4cc4bf"
+  },
+  {
+    "file": "plugins/cordova-plugin-camera/www/CameraConstants.js",
+    "hash": "59efcf5afee449cc39c2b69d12aaf76d"
+  },
+  {
+    "file": "plugins/cordova-plugin-camera/www/CameraPopoverHandle.js",
+    "hash": "424ba3b58cef1adc45261b82eddeef97"
+  },
+  {
+    "file": "plugins/cordova-plugin-camera/www/CameraPopoverOptions.js",
+    "hash": "2272ef7812467d34d4fd79fb534df82e"
+  },
+  {
+    "file": "plugins/cordova-plugin-chcp/www/chcp.js",
+    "hash": "b44d0d2b9feb82cfeb8eb05d07c96b1a"
+  },
+  {
+    "file": "plugins/cordova-plugin-device/www/device.js",
+    "hash": "4c67d821c258512d15abc489bd0bc687"
+  },
+  {
+    "file": "plugins/cordova-plugin-network-information/www/Connection.js",
+    "hash": "34e0c6596532f74f2eef9c61d78e1ad1"
+  },
+  {
+    "file": "plugins/cordova-plugin-network-information/www/network.js",
+    "hash": "3997b7f76580dfd2f0a0f7f694078ddf"
+  },
+  {
+    "file": "plugins/cordova-plugin-qqsdk/www/ycqq.js",
+    "hash": "1a080b4e7f59479ced620fda73cf4086"
+  },
+  {
+    "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.android.js",
+    "hash": "4c25ae881c9025a14aebde28e5199920"
+  },
+  {
+    "file": "plugins/cordova-plugin-screen-orientation/www/screenorientation.js",
+    "hash": "7ace08d714b1c937964f31898a0faa51"
+  },
+  {
+    "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+    "hash": "bf232eee8ec880df1b7206b95a8beebe"
+  },
+  {
+    "file": "plugins/cordova-plugin-statusbar/www/statusbar.js",
+    "hash": "50ac045813bcb66d1d00973c75a47b2e"
+  },
+  {
+    "file": "plugins/cordova-plugin-whitelist/whitelist.js",
+    "hash": "f7403b350d8682df560f33a8cd5d720f"
+  },
+  {
+    "file": "plugins/cordova-universal-clipboard/www/clipboard.js",
+    "hash": "be8b304ecce486fb022c0dc28c7078c8"
+  },
+  {
+    "file": "plugins/cordova.DMQSoft.umengUpdate/www/umengUpdate.js",
+    "hash": "5fc1059230c58bfe510e2a8ae490bbd7"
+  },
+  {
+    "file": "plugins/io.github.pwlin.cordova.plugins.fileopener2/www/plugins.FileOpener2.js",
+    "hash": "009b0e2545a43f259f7c930bf3b1bff1"
+  },
+  {
+    "file": "plugins/nl.x-services.plugins.toast/test/tests.js",
+    "hash": "d098262c7fe508e7c6cac7a254a267df"
+  },
+  {
+    "file": "plugins/nl.x-services.plugins.toast/www/Toast.js",
+    "hash": "bdd8a298c6640f4283e90d0ef53f7919"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file-transfer/www/FileTransfer.js",
+    "hash": "6cb1fe8840235b49be1649fd740c38cd"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file-transfer/www/FileTransferError.js",
+    "hash": "f635144e1a3597c04066f302e951b8a3"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/android/FileSystem.js",
+    "hash": "3170429b9b845852bda386738635092d"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/DirectoryEntry.js",
+    "hash": "f520c08164aa3bdbb9c348b4b5b5a72b"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/DirectoryReader.js",
+    "hash": "3f832c52e9fb51005f7f630de86a9770"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/Entry.js",
+    "hash": "3c91e9d9e841bcdd876841e8e22c0388"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/File.js",
+    "hash": "2c958b953fd2b624199d292c54fec438"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileEntry.js",
+    "hash": "7d3025d24482c73c4c87dacbdbbd8fe3"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileError.js",
+    "hash": "282dc0f58de8e73934157733aa6f71e2"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileReader.js",
+    "hash": "8acd51f7a7510827b27f327e89563c3f"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileSystem.js",
+    "hash": "c54f4680502a08522e24ed81e34b1647"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/fileSystemPaths.js",
+    "hash": "9d73a5faa24e46dbedd6dadf5be7e152"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/fileSystems-roots.js",
+    "hash": "ea6d9f9a9d86113eb3eb8f35d63aed6c"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/fileSystems.js",
+    "hash": "b2488044913fa67a4c9e09bc7e15cc03"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileUploadOptions.js",
+    "hash": "10cf90d455f6738228982cb0e3dedd44"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileUploadResult.js",
+    "hash": "de8598bee40a06707b4f7e70cc95fa7b"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/FileWriter.js",
+    "hash": "878ef6c4bb0d9d9c27638145e23b0d3e"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/Flags.js",
+    "hash": "1dee76ba958f321f6cf858b5d68e0455"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/LocalFileSystem.js",
+    "hash": "dae075819a9986c6cf126a419f8be3bd"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/Metadata.js",
+    "hash": "8ebcccb77b9edf285d5879232b1946f6"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/ProgressEvent.js",
+    "hash": "bbddf2f6323ea816c5f0f77273146d56"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/requestFileSystem.js",
+    "hash": "fa67a5a4105c236b671ae6072a4eb97f"
+  },
+  {
+    "file": "plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js",
+    "hash": "c1dab34d432b41d70438779d8ba41532"
+  },
+  {
+    "file": "plugins/uk.co.whiteoctober.cordova.appversion/www/AppVersionPlugin.js",
+    "hash": "747cd31a28edd285ead2dba5b0dd7fd7"
+  },
+  {
+    "file": "plugins/xu.li.cordova.wechat/www/wechat.js",
+    "hash": "e29eb350891e336ff0dd892e082a57b2"
+  },
+  {
+    "file": "templates/home.html",
+    "hash": "a803430e31b5385becbc627b9ff177c7"
+  }
+]

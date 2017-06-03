@@ -1,0 +1,9 @@
+<ion-tabs class="tabs-icon-top tabs-color-active-positive" >
+    <!--<ion-tabs class="tabs-icon-top tabs-color-active-positive" cache-view="true">-->
+    <ion-tab title="使用明细" icon-on="home_act ub-img " icon-off="home ub-img" href="#/apptabs/wallet">
+        <ion-nav-view name="wallet-tab" class="myTitleHeader" style="border-left: 1px solid #ccc;"></ion-nav-view>
+    </ion-tab>
+    <ion-tab ng-if="detail" title="充值记录" icon-on="dispatching_act ub-img" icon-off="dispatching ub-img" href="#/apptabs/detail" style="border-left: 1px solid #ccc;">
+        <ion-nav-view name="detail-tab" class="myTitleHeader" style="border-left: 1px solid #ccc;"></ion-nav-view>
+    </ion-tab>
+</ion-tabs>

@@ -1,0 +1,12 @@
+<ion-tabs class="tabs-icon-top tabs-color-active-positive" >
+<!--<ion-tabs class="tabs-icon-top tabs-color-active-positive" cache-view="true">-->
+	<ion-tab title="付款" icon-on="home_act ub-img " icon-off="home ub-img" href="#/app/homepage">
+		<ion-nav-view name="home-tab" class="myTitleHeader" style="border-left: 1px solid #ccc;"></ion-nav-view>
+	</ion-tab>
+	<ion-tab ng-if="person" title="MIKE" icon-on="dispatching_act ub-img" icon-off="dispatching ub-img" href="#/app/person" style="border-left: 1px solid #ccc;">
+		<ion-nav-view name="person-tab" class="myTitleHeader" style="border-left: 1px solid #ccc;"></ion-nav-view>
+	</ion-tab>
+	<ion-tab ng-if="set" title="设置" icon-on="vehicle_act ub-img " icon-off="vehicle ub-img" href="#/app/set" style="border-left: 1px solid #ccc;">
+		<ion-nav-view name="set-tab" class="myTitleHeader" style="border-left: 1px solid #ccc;"></ion-nav-view>
+	</ion-tab>
+</ion-tabs>

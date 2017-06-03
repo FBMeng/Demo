@@ -1,0 +1,97 @@
+.headimge{
+    width: 5em;
+    height: 5em;
+    right: 0;
+    top: 30%;
+    position: absolute;
+    border-radius: 5em;
+    background-color: #fff;
+    padding: 1.45em;
+}
+.direct-r{
+    color: #ccc;
+    line-height: 1.2em;
+    right: 0;
+    position: absolute;
+    padding: 0 1em;
+}
+.set-list{
+    display: flex;
+    padding: 1em;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+.set-pad{
+    padding:0 1em;
+}
+.set-mar{
+    margin-left: 1em;
+}
+.set-con{
+    /*margin-top: 2.2em;*/
+    font-size: 16px;
+}
+.footer-button{
+    width: 10em;
+    border: 1px solid #ccc;
+    width: 50%;
+}
+.mycard{
+    display: flex;
+    padding: 0.75em;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+.add-button{
+    color: #444;
+    line-height: 1.5em;
+    padding: 0 1em;
+}
+.card-input{
+    width: 50%;
+    margin-left: 1em;
+}
+.card-text{
+    text-align: center;
+    padding: 0.5em;
+}
+.card-next{
+    text-align: center;
+    margin-top: 2em;
+}
+.card-btn{
+    width: 75%;
+    padding: 0.75em;
+    line-height: 1.5em;
+}
+.set-select{
+    width: 20%;
+    text-align: center;
+    margin-left: 1em;
+    border: none;
+    background-color: #fff;
+}
+.home-enter{
+    width: 50%;
+    text-align: center;
+    height: 13%;
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+.border{
+    float:left;
+    border:1px solid #30A9DE;
+    margin: 4% 5.5%;
+    width: 22%;
+    height:8%;
+    text-align: center;
+    line-height: 328%;
+    border-radius: 1em;
+}
+.content{
+    color: #30A9DE;
+}
+.checked{
+    color: #ff6637;
+    border:1px solid #ff6637;
+}

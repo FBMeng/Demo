@@ -1,0 +1,64 @@
+<ion-view view-title="vehicle">
+	<ion-header-bar class="bar-light bgcolor">
+		<h1 class="title" style="color: white">所属车辆</h1>
+	</ion-header-bar>
+	<ion-content class="has-tabs">
+
+		<ion-refresher spinner="ios" on-refresh="doRefreshTruckList()">
+		</ion-refresher>
+		<ion-spinner icon="ios" class="firstLoad" ng-if="nltip==2"></ion-spinner>
+		<ion-list>
+			<div class="list_head" style="border-bottom: solid 1px #c8c7cc;">
+				<div style="width: 11%;" class="floatLeft">序号</div>
+				<div style="width: 23%;" class="floatLeft">车牌号</div>
+				<div style="width: 20%;" class="floatLeft">载重(吨)</div>
+				<div style="width: 16%;" class="floatLeft">驾驶员</div>
+				<div style="width: 25%;" class="floatLeft">联系方式</div>
+			</div>
+			<div style="width: 2%;"></div>
+			<a class="item" ng-repeat="truck in trucks">
+				<div style="width: 11%;" class="floatLeft">
+					<div class="leftImg" ng-class="{'que':$index%3==0,'inf':$index%3==1,'outf':$index%3==2}"></div>
+					<div style="float: left;" ng-bind="$index+1"></div>
+				</div>
+				<div style="width: 23%;" class="floatLeft">{{truck.number}}</div>
+				<div style="width: 20%;" class="floatLeft">{{truck.wt}}</div>
+				<div style="width: 16%;" class="floatLeft">{{truck.driver}}</div>
+				<div style="width: 25%;" class="floatLeft">{{truck.phone}}</div>
+				
+			</a>
+		</ion-list>
+		<p class="tip" ng-if="nltip1==1">没有更多消息</p>
+		<ion-infinite-scroll ng-if="showScroll1==true" spinner="ios" on-infinite="loadMoreTruckList()" immediate-check="false" distance="1%">
+		</ion-infinite-scroll>
+	</ion-content>
+</ion-view>
+<style type="text/css">
+	.que{
+		background-image: url(img/queue.png);
+		background-size: contain;
+	    background-repeat: no-repeat;
+	    text-align: left;
+	    width: 0.8em;
+	    height: 2.8em;
+	    float: left;
+	}
+	.inf{
+		background-image: url(img/inFactory.png);
+		background-size: contain;
+	    background-repeat: no-repeat;
+	    text-align: left;
+	    width: 0.8em;
+	    height: 2.8em;
+	    float: left;
+	}
+	.outf{
+		background-image: url(img/outFactory.png);
+		background-size: contain;
+	    background-repeat: no-repeat;
+	    text-align: left;
+	    width: 0.8em;
+	    height: 2.8em;
+	    float: left;
+	}
+</style>

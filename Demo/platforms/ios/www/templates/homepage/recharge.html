@@ -1,0 +1,24 @@
+<ion-nav-view class="myTitleHeader">
+<ion-header-bar class="bar-light bgcolor">
+    <div class="buttons ub fa  fa-angle-left back_text" onClick="javascript: history.go(-1);">
+    </div>
+    <div class="back_text" onClick="javascript: history.go(-1);">返回</div>
+    <h1 class="title">充值</h1>
+</ion-header-bar>
+<ion-content class="contentBgc">
+    <div style="background: #ffffff;border-top:1px solid #cccccc;">
+        <div style="margin:2% 0 0 10%;">充值金额</div>
+        <div style="margin: 2% auto;width:90%;" class="content">
+            <div class="border" ng-repeat="temp in tmpList" ng-click="getThis($index)" ng-class="{true:'checked',false:''}[temp.isChecked]">
+                <span>{{temp.TMP_MONEY}}</span>
+                <span style="margin-top:1em;">元</span>
+            </div>
+
+            <div style="clear:both;"></div>
+        </div>
+    </div>
+    <div class="card-next" ng-click="chargeMoney()">
+        <button class="card-btn">充值</button>
+    </div>
+</ion-content>
+</ion-nav-view>
